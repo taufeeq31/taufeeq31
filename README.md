@@ -1,69 +1,68 @@
-<!-- PROFILE HEADER -->
 <h1 align="center">
-  <span style="color:#1e90ff;">Muhammad Taufeeq</span>
+  <span style="color:#1e6bff; font-weight:700; font-size:48px;">TAUFEEQ</span>
 </h1>
 
-<!-- ANIMATED WAVE LINE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="60%" />
+  <img src="https://github.com/kyechan99/capsule-render/raw/master/src/images/base/header_blue.png" width="90%" />
 </p>
 
-<!-- TAGLINE -->
-<h3 align="center" style="color:#1e90ff; font-weight:600;">
-  Software Developer in the making • C++ • Python • DSA • Web Engineering
+<h3 align="center" style="color:#1e6bff; font-weight:600;">
+  Building systems. Eliminating noise. Writing code that survives.
 </h3>
 
-<!-- ANIMATED BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/matrix.gif" width="70%" />
-</p>
+---
 
-<!-- ABOUT -->
-## About Me
-Focused on system-level thinking and scalable abstractions.  
-Building competence in C++, Python, and modern web frameworks.  
-Driven by precision, clarity, and long-term engineering capacity.
+## Identity
+Direct engineering focus.  
+C++, Python, Next.js.  
+Algorithms treated as infrastructure, not academics.  
+Design choices guided by performance and clarity.
 
-<!-- TECH STACK -->
-## Tech Stack
+---
+
+## Core Stack
+- **Languages**: C++, Python, JavaScript  
+- **Web**: Next.js, React, Node  
+- **Infra**: Docker, Linux, Nginx  
+- **Data**: PostgreSQL, MongoDB  
+
+---
+
+## Signal Projects
+### Virtual Mehfil  
+Real-time environment built to remove dependence on foreign data zones.  
+Channels, isolation, and synchronous presence model.
+
+### Systems Work  
+Low-level experiments optimizing memory flow and API surfaces.
+
+---
+
+## Activity
 <div align="center">
-
-| Domain | Tools |
-|--------|--------|
-| Core | C++, Python |
-| Web | Next.js, React, Node.js |
-| Systems | Git, Docker, Linux |
-| Data | SQL, MongoDB |
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Taufeeq-Profile&theme=blue_navy&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taufeeq-Profile&layout=compact&theme=blue_navy&hide_border=true" />
 </div>
 
-<!-- ANIMATED DIVIDER -->
+---
+
+## Motion Layer
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/blue.png" width="60%" />
+  <img src="https://raw.githubusercontent.com/adi1090x/termux-gui/master/.github/resources/line.gif" width="70%" />
 </p>
 
-<!-- PROJECTS -->
-## Highlighted Work
-### Virtual Mehfil
-A browser-native workspace built on real-time channels and minimal latency principles.  
-Data residency aligned with Indian digital-privacy context.
-
-Repository link can be added here when needed.
-
-## GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taufeeq-Profile&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taufeeq-Profile&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<!-- ANIMATED GRID -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kamranahmedse/kamranahmedse/master/gradient.png" width="60%" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/matrix.gif" width="65%" />
 </p>
 
-## Current Focus
-Refining backend competency, strengthening DSA fundamentals, and scaling full-stack capabilities toward production readiness.
+---
+
+## Direction
+Backend reinforcement.  
+DSA refinement.  
+Next.js production hardening.
+
+---
 
 ## Contact
-Email, LinkedIn, and other links can be embedded here when required.
-
+Links placed here when you choose to expose them.
