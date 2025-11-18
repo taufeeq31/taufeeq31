@@ -44,10 +44,6 @@ Focus Areas:
   - Web Development
   - Software Engineering
 
-Interests:
-  - History
-  - Current Affairs
-  - Politics
 
 Mindset: "Learn deeply, build cleanly, improve daily."
 ```
@@ -114,10 +110,8 @@ Mindset: "Learn deeply, build cleanly, improve daily."
 
 ### 📌 What I'm Currently Doing
 
-* Improving DSA proficiency in C++ with focus on patterns and problem-solving.
-* Building full-stack applications using Next.js and Python backends.
-* Exploring open-source projects to understand real-world codebases and contribute.
-* Working on data and history-based coding projects, mixing information and visualization.
+* Improving DSA proficiency in python with focus on patterns and problem-solving.
+* Building and Learning full-stack applications using Next.js.
 
 </div>
 
